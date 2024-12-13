@@ -1,4 +1,4 @@
-# 2nddaygitprac
+# 2nddaygitprac <br>
 hi how are  you its me rehman !
 <br>
-hi my 2nd day at git and git hub prac
+its  my 2nd day to learn git and git hub prac
